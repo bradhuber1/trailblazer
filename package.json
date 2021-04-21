@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bradhuber1/trailblazer/issues"
   },
-  "homepage": "https://github.com/bradhuber1/trailblazer#readme"
+  "homepage": "https://github.com/bradhuber1/trailblazer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
