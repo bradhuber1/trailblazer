@@ -1,4 +1,10 @@
 /* Main Stylesheet */
 body {
-    background-color: gray;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+p {
+    padding-left: 10%;
+    padding-right: 10%;
 }
