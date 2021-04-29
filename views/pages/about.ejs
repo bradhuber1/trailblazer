@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include ("../partials/head.ejs") %>
+</head>
+
+<body>
+    <%- include ("../partials/navbar.ejs") %>
+        <main>
+            <h1><strong>About</strong></h1>
+            <p>
+                This is a 100% free and open source project (and will always be, forever!) developed to aid in the
+                instruction of elementary school students with coding. It is meant to inspire and promote creative
+                thinking, as well as spark interest in STEM projects.
+            </p>
+            <p>
+                This is an ever evolving project that will continually be updated with new content. All content in this
+                project will be appropriate for elementary school students.
+            </p>
+            <p>
+                If you have questions, concerns, comments, or want to contribute or support this project, please
+                <a href="/contact">contact</a> me.
+            </p>
+            <p>
+                The entire source code for this project is available at the
+                <a href="https://github.com/bradhuber1/trailblazer">Trailblazer Software Repository</a>
+                for free!
+            </p>
+        </main>
+        <script>
+            // Set active link in the navbar
+            document.getElementById("about").classList.add("active")
+        </script>
+</body>
+
+</html>
