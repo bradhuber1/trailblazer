@@ -27,7 +27,8 @@ These are by no means exhaustive installation instructions. They assume a basic 
 ## Make Code Changes
 1. Install a text/code editor or Interactive Development Environment (IDE) to edit code
     * [Visual Studio Code](https://code.visualstudio.com/) is a cross-platform and easy to use code editor
-2. Once changes are complete, re-start the application (if the application is running use the ***CTRL+C*** in the command prompt or terminal to stop it), then run the following command:  
+2. Once changes are complete (be sure to save the files), start the application:   
+*Note: If the application is already running use the ***CTRL+C*** command in the command prompt or terminal to stop it before re-starting the application*   
 `npm start`
 
 ## Windows PowerShell and Unix/Apple Terminal Basics
