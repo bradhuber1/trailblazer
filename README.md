@@ -15,7 +15,7 @@ These are by no means exhaustive installation instructions. They assume a basic 
 3. Open a command prompt or terminal to install the code
     * On Windows use either *Command Prompt* or *PowerShell* (recommended)
 4. Install the *Trailblazer* application development environment
-    * Using *Windows PowerShell*
+    * Using *Windows PowerShell* or a terminal application
         1. Change directories (folders) to the trailblazer directory (previously downloaded and unzipped):  
         `cd path/to/trailblazer`
         2. Run the install command:  
