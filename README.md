@@ -22,7 +22,6 @@ This code repository was created to assist with elementary school education in c
         `npm start`
         4. Open a web browser and navigate to [http://localhost:5000](http://localhost:5000)
 
-<<<<<<< HEAD
 ## Make Code Changes
 1. Install a text/code editor or Interactive Development Environment (IDE) to edit code
     * [Visual Studio Code](https://code.visualstudio.com/) is a cross-platform and easy to use code editor
@@ -31,7 +30,5 @@ This code repository was created to assist with elementary school education in c
 
 ## Contribute to the Project
 This a 100% free and open source project. If you would like to contribute or support it, please contact me.
-=======
 5. Install a text/code editor or Interactive Development Environment (IDE) to edit code
     * [Visual Studio Code](https://code.visualstudio.com/) is a cross-platform and easy to use code editor
->>>>>>> 2ce153358ec9d8babb1bb22aad700c8e969514ab
