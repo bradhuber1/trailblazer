@@ -45,4 +45,4 @@ These are by no means exhaustive installation instructions. They assume a basic 
 `ls`
 
 ## Contribute to the Project
-This a 100% free and open source project. If you would like to contribute or support it, please contact me. Help and good ideas are always welcome!
+This is a 100% free and open source project. If you would like to contribute or support it, please contact me. Help and good ideas are always welcome!
