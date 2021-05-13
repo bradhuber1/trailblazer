@@ -4,7 +4,7 @@
 This code repository was created to assist with elementary school education in coding. A working version is hosted using the [Heroku](https://www.heroku.com) cloud hosting platform and can be visited at [Trailblazer Coders](https://trailblazer-coders.herokuapp.com/).
 
 ## Installation Instructions
-These are by no means exhaustive installation instructions. They assume a basic knowledge of using a command prompt or terminal application. See the [Windows PowerShell and Unix/Apple Terminal Basics](#windows-powerShell-and-unix/apple-terminal-basics) section for some basic commands that should help you get up and running.
+These are by no means exhaustive installation instructions. They assume a basic knowledge of using a command prompt or terminal application. See the [Windows PowerShell and Unix/Apple Terminal Basics](#windows-powerShell-and-unixapple-terminal-basics) section for some basic commands that should help you get up and running.
 
 1. Get the code
     * If you are familiar with [Git](https://git-scm.com/), you can clone this repository with the following command:  
