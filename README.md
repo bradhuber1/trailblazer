@@ -4,7 +4,7 @@
 1. Get the code
     * If you are familiar with [Git](https://git-scm.com/), you can clone this repository with the following command:  
     `git clone https://github.com/bradhuber1/trailblazer.git`
-    * Otherwise you can download and extract the code from this [zip](https://github.com/bradhuber1/trailblazer/archive/refs/heads/main.zip) file 
+    * Otherwise, you can download and extract the code from this [zip](https://github.com/bradhuber1/trailblazer/archive/refs/heads/main.zip) file 
 2. Install [Node.js](https://nodejs.org/en/)
     * This application is built and run using the Node.js JavaScript Runtime environment
 3. Open a command prompt or terminal to install the code
